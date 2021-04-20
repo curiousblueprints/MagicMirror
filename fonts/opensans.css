@@ -1,0 +1,58 @@
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 100;
+  src: url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff2") format("woff2"), url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans Condensed";
+  font-style: normal;
+  font-weight: 300;
+  src: url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff2") format("woff2"),
+    url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans Condensed";
+  font-style: normal;
+  font-weight: 400;
+  src: url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff2") format("woff2"),
+    url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans Condensed";
+  font-style: normal;
+  font-weight: 700;
+  src: url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff2") format("woff2"),
+    url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 400;
+  src: url("node_modules/open-sans-fontface/fonts/Regular/OpenSans-Regular.woff2") format("woff2"), url("node_modules/open-sans-fontface/Regular/Regular/OpenSans-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 500;
+  src: url("node_modules/open-sans-fontface/fonts/Semibold/OpenSans-Semibold.woff2") format("woff2"), url("node_modules/open-sans-fontface/fonts/Semibold/OpenSans-Semibold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 700;
+  src: url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff2") format("woff2"), url("node_modules/open-sans-fontface/fonts/Bold/OpenSans-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Open Sans";
+  font-style: normal;
+  font-weight: 300;
+  src: url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff2") format("woff2"), url("node_modules/open-sans-fontface/fonts/Light/OpenSans-Light.woff") format("woff");
+}
